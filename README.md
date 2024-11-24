@@ -95,7 +95,12 @@
 
 ## Top Open Source -
 [![DevOps Crash Course 2024](https://github-readme-stats.vercel.app/api/pin/?username=Zetrio16&repo=DevOps_Course_2024&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Zetrio16/DevOps_Course_2024)
-[![Academic Resource Portal](https://github-readme-stats.vercel.app/api/pin/?username=Zetrio16&repo=Academic-Resource-Portal&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Zetrio16/Academic-Resource-Portal) [![Food Blogging Website](https://github-readme-stats.vercel.app/api/pin/?username=Zetrio16&repo=Food-Blogging-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Zetrio16/Academic-Resource-Portal) [![Railway Booking Website](https://github-readme-stats.vercel.app/api/pin/?username=Zetrio16&repo=Railway-Booking-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Zetrio16/Academic-Resource-Portal) [![Tour & Travel Website](https://github-readme-stats.vercel.app/api/pin/?username=Zetrio16&repo=Travel-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Zetrio16/Academic-Resource-Portal)
+
+[![Academic Resource Portal](https://github-readme-stats.vercel.app/api/pin/?username=Zetrio16&repo=Academic-Resource-Portal&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Zetrio16/Academic-Resource-Portal) 
+
+[![Food Blogging Website](https://github-readme-stats.vercel.app/api/pin/?username=Zetrio16&repo=Food-Blogging-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Zetrio16/Food-Blogging-Website) 
+
+[![Railway Booking Website](https://github-readme-stats.vercel.app/api/pin/?username=Zetrio16&repo=Railway-Booking-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Zetrio16/Academic-Resource-Portal) [![Tour & Travel Website](https://github-readme-stats.vercel.app/api/pin/?username=Zetrio16&repo=Travel-Website&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/Zetrio16/Academic-Resource-Portal)
 
 
 
